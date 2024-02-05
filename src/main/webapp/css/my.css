@@ -1,0 +1,32 @@
+th, td, tr {
+    border: 3px solid #0a207f;
+    padding: 3px;
+    color: #030303;
+    font-style: italic;
+    font-family: "Franklin Gothic Book", serif;
+    font-size: large;
+    background-color: #def5c7;
+    /*border-top: 4px solid #101111;*/
+    text-align: center;
+    margin: 2px;
+}
+
+.active_page {
+    color: #000000;
+    background: #85db5c;
+}
+
+.button_page {
+    color: aliceblue;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 10px;
+    font-size: large;
+}
+
+
+/*@import url('https://fonts.googleapis.com/css?family=Lobster&subset=cyrillic');*/
+/*h1 {*/
+/*    font-family: 'Lobster', cursive;*/
+/*    color: green;*/
+/*}*/
